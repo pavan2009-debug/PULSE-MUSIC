@@ -1,0 +1,8 @@
+{
+  "name": "Pulse Music",
+  "description": "A sleek music streaming app with cross-platform device sync, curated playlists, synchronized lyrics, and seamless audio playback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
